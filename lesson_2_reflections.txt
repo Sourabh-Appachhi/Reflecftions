@@ -3,17 +3,23 @@ It will create a git reporitory. We need to do it so that a reporitory associate
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+It is an intermediate state where nor it is committed or it is removed. This allows you to review the files before commiting and checkout if you dont want to commit
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+We can add only required files to add staging area by using command git add and doing commits only for those files.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When I am creating a new feature and it takes a lot of time or if there are many contributors to a repository it makes sense to create branch.
 
 How do the diagrams help you visualize the branch structure?
+With the help of diagrams, the branching structure is clear
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+All the changes of coins branch was merged to master branch. Because the changes from the coins branch was added to master branch.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Automatic merging saves time. We will not have control over the code changes as all the changes are automatically merged.
