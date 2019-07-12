@@ -22,14 +22,14 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It will keep us up to date with the remote changes so that we dont miss out on the new changes which happened on different systems/from differnt collaboraters
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Using pendrives/Google Drive. We can work in offline mode also using drives. The harder part would be to keep track of the changes and if we need to collaborate from differnt locations
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    
