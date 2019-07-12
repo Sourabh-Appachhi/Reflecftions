@@ -31,5 +31,4 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    
+    When working in a team, its better to have a moderator/reviewer. And it might create conflicts if everyone from the team starts commiting to one branch.
